@@ -3,14 +3,16 @@ Just completed a tutorial about typescript from "Hitesh Choudhary" yt. Best opti
 
 # LEARNED CONCEPTS
 
-*Type alias
-*Union types
-*Tuples
-*Interface
-*Classes in ts
-*Generics
-*Narrowing
-etc...
+* Variables in ts
+* Functions in ts
+* Type alias
+* Union types
+* Tuples
+* Interface
+* Classes in ts
+* Generics
+* Narrowing
+
 
 # MY REVIEW
 Overall such an awesome tutorial especially for beginners. Easy and simple explanation along with code
