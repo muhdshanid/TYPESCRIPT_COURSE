@@ -41,6 +41,27 @@ let myUser: User = {
 
 myUser.email = "h@gmail.com"
 
+type CardNumber = {
+    cardNumber: string
+}
+
+type CardDate = {
+    cardDate: string
+}
+
+type CardCvv = {
+    cvv: number
+}
+type CardDetails = CardNumber & CardDate & CardCvv
+
+
+
+
+
+
+
+
+
 
 
 export {};
